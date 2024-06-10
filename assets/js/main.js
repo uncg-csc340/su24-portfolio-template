@@ -75,7 +75,7 @@ jQuery(document).ready(function($) {
 					`);
 
 					//Append each language list to the item
-					item.appendChild(langs);
+					item.appendChild(languages);
 					// Append each item to the div
 					div.appendChild(item);
 				}
